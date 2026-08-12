@@ -56,6 +56,8 @@ I am an Informatics student with a strong passion for Software Development and A
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 data-importer="text" align="left">Let's Play Pacman With Me</h3>
 
 ###
@@ -67,5 +69,3 @@ I am an Informatics student with a strong passion for Software Development and A
 </picture>
 
 ###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -56,10 +56,16 @@ I am an Informatics student with a strong passion for Software Development and A
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RidhoMauliddani&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<h3 data-importer="text" align="left">Let's Play Pacman With Me</h3>
 
----
-[![](https://komarev.com/ghpvc/?username=RidhoMauliddani&icon=1&color=0)](https://visitcount.itsvg.in)
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidhoMauliddani/RidhoMauliddani/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidhoMauliddani/RidhoMauliddani/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RidhoMauliddani/RidhoMauliddani/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

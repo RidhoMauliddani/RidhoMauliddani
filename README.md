@@ -23,11 +23,6 @@ I am an Informatics student with a strong passion for Software Development and A
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RidhoMauliddani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800&v=1" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=RidhoMauliddani&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=1" alt="GitHub Trophies" />
-</p>
-
 ### ✍️ Random Dev Quote
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Random Dev Quote" />
